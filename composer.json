@@ -1,0 +1,14 @@
+{
+    "name": "wvanbreukelen/api-myws",
+    "description": "A easy to use API for your future weather project",
+    "require": {
+        "illuminate/database": "5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wvanbreukelen",
+            "email": "wiebe@dikkebmw.net"
+        }
+    ]
+}

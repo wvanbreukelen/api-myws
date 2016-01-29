@@ -1,6 +1,6 @@
 # api-myws
 
-A easy to use API for a future weather project.
+A easy to use API for your future weather project.
 Written in PHP
 
 ## Usage
