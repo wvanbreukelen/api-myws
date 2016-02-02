@@ -1,5 +1,7 @@
 # api-myws
 
+This API is under heavy development, expect major bugs!
+
 A easy to use API for your future weather project.
 Written in PHP
 
